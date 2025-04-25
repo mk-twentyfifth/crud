@@ -6,8 +6,9 @@ things I learn
 
 New tools I learn
 1. Thunder Clients
-2. Nodemon - for autosave and serve the webspage during development
-3. Mongoos - tool for manage mongodb
+2. Nodemon - for autosave and serve the webpage during development
+3. Mongoose - tool for manage mongodb
+4. JSON Viewer - Chrome Extension (Now Depreciate use the Auto Print in the chrome browser instead)
 
 installation
 1. express - from npm
@@ -15,4 +16,4 @@ installation
 
 
 Latest: 
-adding Mongoose Product to Index.js (34:09)
+adding Mongoose Product to Index.js (55:16)
